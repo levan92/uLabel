@@ -1,0 +1,16 @@
+<annotation>
+<filename>
+myfile
+</filename>
+<folder>
+mydir
+</folder>
+<source>
+<sourceImage>
+DSO database of scenes
+</sourceImage>
+<sourceAnnotation>
+uLabel Annotation Tool
+</sourceAnnotation>
+</source>
+</annotation>

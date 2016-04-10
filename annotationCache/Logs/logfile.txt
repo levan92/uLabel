@@ -1,0 +1,1013 @@
+
+24-May-2012 22:31:00 127.0.0.1 *Opened_Edit_Popup
+24-May-2012 22:31:04 127.0.0.1 *Closed_Edit_Popup
+24-May-2012 22:31:04 example_folder p1010738 1 1 127.0.0.1  sign->sign 0 admin cpts_modified 0 0
+24-May-2012 22:59:19 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 22:59:19 127.0.0.1 *start_loading
+24-May-2012 22:59:19 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 22:59:23 127.0.0.1 *start_polygon
+24-May-2012 22:59:29 127.0.0.1 *What_is_this_object_query
+24-May-2012 22:59:49 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 22:59:49 127.0.0.1 *start_loading
+24-May-2012 22:59:49 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 22:59:51 127.0.0.1 *start_polygon
+24-May-2012 22:59:56 127.0.0.1 *What_is_this_object_query
+24-May-2012 22:59:58 example_folder p1010738 0 1 127.0.0.1  sign 1 admin cpts_not_modified 0 0
+24-May-2012 23:00:06 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:00:06 127.0.0.1 *start_loading
+24-May-2012 23:00:06 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 23:04:49 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:04:49 127.0.0.1 *start_loading
+24-May-2012 23:04:49 127.0.0.1 *done_loading_Images/example_folder/p1010737.jpg
+24-May-2012 23:04:51 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:04:51 127.0.0.1 *start_loading
+24-May-2012 23:04:51 127.0.0.1 *done_loading_Images/example_folder/p1010737.jpg
+24-May-2012 23:04:52 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:04:52 127.0.0.1 *start_loading
+24-May-2012 23:04:52 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 23:04:53 127.0.0.1 *start_loading
+24-May-2012 23:04:53 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:04:53 127.0.0.1 *done_loading_Images/users/pepito/test/coast_art294.jpg
+24-May-2012 23:04:55 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:04:55 127.0.0.1 *start_loading
+24-May-2012 23:04:55 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 23:25:31 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:25:31 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 23:25:31 127.0.0.1 *start_loading
+24-May-2012 23:25:33 127.0.0.1 *start_loading
+24-May-2012 23:25:33 127.0.0.1 *done_loading_Images/example_folder/p1010736.jpg
+24-May-2012 23:25:33 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:25:36 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:25:36 127.0.0.1 *start_loading
+24-May-2012 23:25:36 127.0.0.1 *done_loading_Images/example_folder/p1010737.jpg
+24-May-2012 23:25:37 127.0.0.1 *start_loading
+24-May-2012 23:25:37 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:25:37 127.0.0.1 *done_loading_Images/example_folder/p1010738.jpg
+24-May-2012 23:25:38 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:25:38 127.0.0.1 *start_loading
+24-May-2012 23:25:39 127.0.0.1 *done_loading_Images/example_folder/p1010736.jpg
+24-May-2012 23:26:45 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:26:45 127.0.0.1 *start_loading
+24-May-2012 23:26:45 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+24-May-2012 23:26:49 127.0.0.1 *start_loading
+24-May-2012 23:26:49 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+24-May-2012 23:26:49 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:26:50 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:26:50 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+24-May-2012 23:26:50 127.0.0.1 *start_loading
+24-May-2012 23:26:51 127.0.0.1 *start_loading
+24-May-2012 23:26:51 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:26:51 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+24-May-2012 23:27:22 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:27:22 127.0.0.1 *start_loading
+24-May-2012 23:27:22 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+24-May-2012 23:27:22 127.0.0.1 *start_loading
+24-May-2012 23:27:22 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:27:22 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+24-May-2012 23:27:27 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+24-May-2012 23:27:27 127.0.0.1 *start_loading
+24-May-2012 23:27:27 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+25-May-2012 00:09:31 127.0.0.1 *start_loading
+25-May-2012 00:09:31 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+25-May-2012 00:09:31 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+25-May-2012 00:09:32 127.0.0.1 *start_loading
+25-May-2012 00:09:32 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+25-May-2012 00:09:32 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+25-May-2012 00:09:34 127.0.0.1 *start_loading
+25-May-2012 00:09:34 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+25-May-2012 00:09:34 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+25-May-2012 00:09:34 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+25-May-2012 00:09:34 127.0.0.1 *start_loading
+25-May-2012 00:09:34 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+25-May-2012 00:09:41 127.0.0.1 *start_polygon
+25-May-2012 00:09:46 127.0.0.1 *What_is_this_object_query
+25-May-2012 00:09:48 example_folder img1 0 1 127.0.0.1  window 1 admin cpts_not_modified 0 0
+25-May-2012 00:50:12 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+25-May-2012 00:50:12 127.0.0.1 *start_loading
+25-May-2012 00:50:12 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+03-Jun-2012 21:17:04 127.0.0.1 *start_loading
+03-Jun-2012 21:17:04 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+03-Jun-2012 21:17:04 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:12:17 127.0.0.1 *start_loading
+05-Jun-2012 16:12:17 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:12:17 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:12:17 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:12:17 127.0.0.1 *start_loading
+05-Jun-2012 16:12:17 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:17:20 127.0.0.1 *start_loading
+05-Jun-2012 16:17:20 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:17:20 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:17:57 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:17:57 127.0.0.1 *start_loading
+05-Jun-2012 16:17:57 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:21:42 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:21:42 127.0.0.1 *start_loading
+05-Jun-2012 16:21:42 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:21:44 127.0.0.1 *start_loading
+05-Jun-2012 16:21:44 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:21:44 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:21:46 127.0.0.1 *start_loading
+05-Jun-2012 16:21:46 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:21:46 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:28:25 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:28:25 127.0.0.1 *start_loading
+05-Jun-2012 16:28:25 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:28:33 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:28:33 127.0.0.1 *start_loading
+05-Jun-2012 16:28:33 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+05-Jun-2012 16:28:34 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:28:34 127.0.0.1 *start_loading
+05-Jun-2012 16:28:34 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:32:56 127.0.0.1 *start_loading
+05-Jun-2012 16:32:56 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:32:56 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:33:19 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:33:19 127.0.0.1 *start_loading
+05-Jun-2012 16:33:19 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:33:22 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:33:22 127.0.0.1 *start_loading
+05-Jun-2012 16:33:22 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:33:24 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:33:24 127.0.0.1 *start_loading
+05-Jun-2012 16:33:24 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:34:06 127.0.0.1 *start_loading
+05-Jun-2012 16:34:06 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:34:06 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:34:28 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:34:28 127.0.0.1 *start_loading
+05-Jun-2012 16:34:28 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:34:29 127.0.0.1 *start_loading
+05-Jun-2012 16:34:29 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:34:29 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:34:30 127.0.0.1 *start_loading
+05-Jun-2012 16:34:30 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:34:30 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:35:33 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:35:33 127.0.0.1 *start_loading
+05-Jun-2012 16:35:33 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:35:38 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:35:38 127.0.0.1 *start_loading
+05-Jun-2012 16:35:38 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+05-Jun-2012 16:35:39 127.0.0.1 *start_loading
+05-Jun-2012 16:35:39 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:35:39 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:37:22 127.0.0.1 *start_loading
+05-Jun-2012 16:37:22 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:37:22 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:37:26 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:37:26 127.0.0.1 *start_loading
+05-Jun-2012 16:37:26 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:37:27 127.0.0.1 *start_loading
+05-Jun-2012 16:37:27 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:37:27 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:38:02 127.0.0.1 *start_loading
+05-Jun-2012 16:38:02 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:38:02 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:38:04 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:38:04 127.0.0.1 *start_loading
+05-Jun-2012 16:38:04 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:38:05 127.0.0.1 *start_loading
+05-Jun-2012 16:38:05 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:38:05 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:38:06 127.0.0.1 *start_loading
+05-Jun-2012 16:38:06 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:38:06 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:38:58 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:38:58 127.0.0.1 *start_loading
+05-Jun-2012 16:38:58 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:01 127.0.0.1 *start_loading
+05-Jun-2012 16:39:01 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:01 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:39:03 127.0.0.1 *start_loading
+05-Jun-2012 16:39:03 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:03 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:39:04 127.0.0.1 *start_loading
+05-Jun-2012 16:39:04 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:04 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:04 127.0.0.1 *start_loading
+05-Jun-2012 16:39:04 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:05 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:48 127.0.0.1 *start_loading
+05-Jun-2012 16:39:48 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:48 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:51 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:51 127.0.0.1 *start_loading
+05-Jun-2012 16:39:52 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:52 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:52 127.0.0.1 *start_loading
+05-Jun-2012 16:39:52 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:53 127.0.0.1 *start_loading
+05-Jun-2012 16:39:54 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:54 127.0.0.1 *done_loading_Images/example_folder/img2.jpg
+05-Jun-2012 16:39:56 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:56 127.0.0.1 *start_loading
+05-Jun-2012 16:39:56 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:39:59 127.0.0.1 *start_loading
+05-Jun-2012 16:39:59 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:39:59 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:40:07 127.0.0.1 *start_loading
+05-Jun-2012 16:40:07 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:07 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+05-Jun-2012 16:40:09 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:09 127.0.0.1 *start_loading
+05-Jun-2012 16:40:09 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+05-Jun-2012 16:40:10 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:10 127.0.0.1 *start_loading
+05-Jun-2012 16:40:11 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+05-Jun-2012 16:40:12 127.0.0.1 *start_loading
+05-Jun-2012 16:40:12 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:12 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:40:14 127.0.0.1 *start_loading
+05-Jun-2012 16:40:14 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:14 127.0.0.1 *done_loading_Images/example_folder/img1.jpg
+05-Jun-2012 16:40:16 127.0.0.1 *start_loading
+05-Jun-2012 16:40:16 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
+05-Jun-2012 16:40:16 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+15-Mar-2016 18:17:36 example_folder img1 2 3 ::1  road 1 anonymous cpts_not_modified 0 0
+15-Mar-2016 18:19:51 example_folder img1 3 4 ::1  tree 1 anonymous cpts_not_modified 0 0
+15-Mar-2016 18:20:07 example_folder img1 4 5 ::1  house 2 anonymous cpts_not_modified 0 0
+15-Mar-2016 18:35:28 example_folder img1 5 6 ::1  ladder 1 Evan cpts_not_modified 0 0
+15-Mar-2016 18:36:03 example_folder img1 6 7 ::1  some 2 Evan cpts_not_modified 0 0
+16-Mar-2016 01:53:22 example_folder img1 7 7 ::1  ladder 0 Evan cpts_not_modified 0 1
+17-Mar-2016 07:19:57 example_folder img2 0 1 ::1  car 1 anonymous cpts_not_modified 0 0
+17-Mar-2016 07:22:14 example_folder img2 1 2 ::1  wooden_pole 2 anonymous cpts_not_modified 0 0
+19-Mar-2016 03:57:55 example_folder img1 7 8 ::1  car_window 1 Evan cpts_not_modified 1 1
+19-Mar-2016 03:58:00 example_folder img1 8 9 ::1  car_window 2 Evan cpts_not_modified 1 1
+19-Mar-2016 03:58:35 example_folder img1 9 10 ::1  windowaaaa 1 Evan cpts_not_modified 1 1
+19-Mar-2016 03:58:45 example_folder img1 10 10 ::1  car_window 1 Evan cpts_not_modified 1 2
+19-Mar-2016 03:58:55 example_folder img1 10 11 ::1  car 1 Evan cpts_not_modified 2 2
+19-Mar-2016 03:59:03 example_folder img1 11 12 ::1  tree 2 Evan cpts_not_modified 2 2
+19-Mar-2016 03:59:16 example_folder img1 12 13 ::1  tree 3 Evan cpts_not_modified 2 2
+19-Mar-2016 03:59:28 example_folder img1 13 14 ::1  f 4 Evan cpts_not_modified 2 2
+19-Mar-2016 03:59:37 example_folder img1 14 15 ::1  ssssss 5 Evan cpts_not_modified 2 2
+19-Mar-2016 04:00:00 example_folder img1 15 15 ::1  ssssss 4 Evan cpts_not_modified 2 3
+19-Mar-2016 04:00:02 example_folder img1 15 15 ::1  f 3 Evan cpts_not_modified 3 4
+19-Mar-2016 04:00:05 example_folder img1 15 15 ::1  tree 2 Evan cpts_not_modified 4 5
+19-Mar-2016 04:00:07 example_folder img1 15 15 ::1  tree 1 Evan cpts_not_modified 5 6
+19-Mar-2016 04:00:09 example_folder img1 15 15 ::1  car 0 Evan cpts_not_modified 6 7
+19-Mar-2016 04:00:11 example_folder img1 15 15 ::1  windowaaaa 0 Evan cpts_not_modified 7 8
+19-Mar-2016 04:01:46 example_folder img1 15 16 ::1  sky 1 Evan cpts_not_modified 8 8
+19-Mar-2016 04:01:55 example_folder img1 16 16 ::1  car_window 1 Evan cpts_not_modified 8 9
+19-Mar-2016 04:18:59 example_folder img1 16 17 ::1  aaa 1 anonymous cpts_not_modified 9 9
+19-Mar-2016 04:22:24 example_folder img1 17 17 ::1  *empty*    9 9
+19-Mar-2016 04:22:34 example_folder img1 17 17 ::1  house 0 anonymous cpts_not_modified 9 10
+19-Mar-2016 04:22:36 example_folder img1 17 17 ::1  tree 0 anonymous cpts_not_modified 10 11
+19-Mar-2016 04:22:38 example_folder img1 17 17 ::1  some 0 anonymous cpts_not_modified 11 12
+19-Mar-2016 04:22:40 example_folder img1 17 17 ::1  license_plate 0 anonymous cpts_not_modified 12 13
+19-Mar-2016 04:22:49 example_folder img1 17 18 ::1  abc 1 evan cpts_not_modified 13 13
+19-Mar-2016 04:22:57 example_folder img1 18 18 ::1  abc 0 nicole cpts_not_modified 13 14
+19-Mar-2016 04:50:20 example_folder img1 18 19 ::1  a 1 nicole cpts_not_modified 14 14
+19-Mar-2016 04:53:48 example_folder img1 19 19 ::1  aaa->aaa 1 nicole cpts_modified 14 14
+20-Mar-2016 06:22:11 example_folder img1 19 20 ::1  hah 1 nicole cpts_not_modified 14 14
+20-Mar-2016 06:46:48 example_folder img1 20 21 ::1  haha 1 nicole cpts_not_modified 14 14
+20-Mar-2016 06:49:05 example_folder img1 21 21 ::1  a 0 nicole cpts_not_modified 14 15
+20-Mar-2016 06:49:17 example_folder img1 21 21 ::1  aaa->aaa 0 nicole cpts_modified 15 15
+20-Mar-2016 06:50:45 example_folder img1 21 22 ::1  1 1 nicole cpts_not_modified 15 15
+20-Mar-2016 06:50:49 example_folder img1 22 23 ::1  2 2 nicole cpts_not_modified 15 15
+20-Mar-2016 06:50:53 example_folder img1 23 24 ::1  3 3 nicole cpts_not_modified 15 15
+20-Mar-2016 06:51:02 example_folder img1 24 24 ::1  window 3 nicole cpts_not_modified 15 16
+20-Mar-2016 06:51:05 example_folder img1 24 24 ::1  road 3 nicole cpts_not_modified 16 17
+20-Mar-2016 06:51:07 example_folder img1 24 24 ::1  sky 3 nicole cpts_not_modified 17 18
+20-Mar-2016 06:51:09 example_folder img1 24 24 ::1  aaa 3 nicole cpts_not_modified 18 19
+20-Mar-2016 06:51:11 example_folder img1 24 24 ::1  hah 3 nicole cpts_not_modified 19 20
+20-Mar-2016 06:51:13 example_folder img1 24 24 ::1  haha 3 nicole cpts_not_modified 20 21
+20-Mar-2016 06:51:19 example_folder img1 24 25 ::1  4 4 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:24 example_folder img1 25 26 ::1  5 5 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:30 example_folder img1 26 27 ::1  6 6 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:35 example_folder img1 27 28 ::1  7 7 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:39 example_folder img1 28 29 ::1  8 8 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:47 example_folder img1 29 30 ::1  9 9 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:52 example_folder img1 30 31 ::1  10 10 nicole cpts_not_modified 21 21
+20-Mar-2016 06:51:59 example_folder img1 31 32 ::1  11 11 nicole cpts_not_modified 21 21
+20-Mar-2016 07:04:45 example_folder img1 32 33 ::1  epic_ 1 nicole cpts_not_modified 21 21
+20-Mar-2016 07:05:04 example_folder img1 33 33 ::1  epic_->epic_haha__yes_p 1 nicole cpts_not_modified 21 21
+20-Mar-2016 07:08:09 example_folder img1 33 33 ::1  5 0 nicole cpts_not_modified 21 22
+20-Mar-2016 07:08:17 example_folder img1 33 34 ::1  aaaa 1 nicole cpts_not_modified 22 22
+20-Mar-2016 07:10:57 example_folder img1 34 35 ::1  as 2 nicole cpts_not_modified 22 22
+20-Mar-2016 07:11:09 example_folder img1 35 36 ::1  aaaaaa 3 nicole cpts_not_modified 22 22
+20-Mar-2016 07:14:31 example_folder img1 36 37 ::1  aaaa 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:02:56 example_folder img1 37 38 ::1  sxcrib 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:03:16 example_folder img1 38 38 ::1  sxcrib 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:03:19 example_folder img1 38 38 ::1  sxcrib->sxcrib 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:04:04 example_folder img1 38 38 ::1  sxcrib->sxcrib 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:04:07 example_folder img1 38 38 ::1  sxcrib->sxcrib 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:19:23 example_folder img1 38 39 ::1  saab 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:19:30 example_folder img1 39 40 ::1  saab 2 nicole cpts_not_modified 22 22
+20-Mar-2016 09:20:29 example_folder img1 40 41 ::1  volvo 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:20:52 example_folder img1 41 42 ::1  sky 1 nicole cpts_not_modified 22 22
+20-Mar-2016 09:21:55 example_folder img1 0 1 ::1  sky 1 nicole cpts_not_modified 0 0
+20-Mar-2016 09:22:37 example_folder img1 1 2 ::1  road 2 nicole cpts_not_modified 0 0
+20-Mar-2016 09:23:04 example_folder img1 2 3 ::1  object 3 nicole cpts_not_modified 0 0
+20-Mar-2016 09:30:05 example_folder img1 3 4 ::1  road 1 nicole cpts_not_modified 0 0
+20-Mar-2016 09:30:11 example_folder img1 4 5 ::1  road 2 nicole cpts_not_modified 0 0
+20-Mar-2016 09:30:29 example_folder img1 5 6 ::1  highveg 3 nicole cpts_not_modified 0 0
+20-Mar-2016 09:30:39 example_folder img1 6 7 ::1  object 4 nicole cpts_not_modified 0 0
+20-Mar-2016 09:33:14 example_folder img1 7 8 ::1  highveg 5 nicole cpts_not_modified 0 0
+20-Mar-2016 09:35:48 example_folder img1 8 9 ::1  road 1 nicole cpts_not_modified 0 0
+20-Mar-2016 09:38:19 example_folder img1 9 10 ::1  sky 2 nicole cpts_not_modified 0 0
+20-Mar-2016 09:38:28 example_folder img1 10 11 ::1  highveg 3 nicole cpts_not_modified 0 0
+20-Mar-2016 09:47:18 example_folder img1 11 12 ::1  sky 1 nicole cpts_not_modified 0 0
+20-Mar-2016 09:47:23 example_folder img1 12 13 ::1  highveg 2 nicole cpts_not_modified 0 0
+20-Mar-2016 09:51:21 example_folder img1 13 14 ::1  highveg 1 nicole cpts_not_modified 0 0
+20-Mar-2016 09:52:34 example_folder img1 14 15 ::1  highveg 1 nicole cpts_not_modified 0 0
+20-Mar-2016 10:25:00 example_folder img2 2 3 ::1  sky 1 nicole cpts_not_modified 0 0
+20-Mar-2016 13:20:19 example_folder img2 3 4 ::1  object 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 13:36:06 example_folder img2 4 5 ::1  road 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 13:54:58 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 0 1
+20-Mar-2016 13:54:59 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 1 2
+20-Mar-2016 13:55:01 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 2 3
+20-Mar-2016 13:55:02 example_folder img1 15 15 ::1  sky 0 anonymous cpts_not_modified 3 4
+20-Mar-2016 13:55:04 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 4 5
+20-Mar-2016 13:55:06 example_folder img1 15 15 ::1  sky 0 anonymous cpts_not_modified 5 6
+20-Mar-2016 13:55:07 example_folder img1 15 15 ::1  road 0 anonymous cpts_not_modified 6 7
+20-Mar-2016 13:55:08 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 7 8
+20-Mar-2016 13:55:10 example_folder img1 15 15 ::1  object 0 anonymous cpts_not_modified 8 9
+20-Mar-2016 13:55:12 example_folder img1 15 15 ::1  highveg 0 anonymous cpts_not_modified 9 10
+20-Mar-2016 13:55:17 example_folder img1 15 15 ::1  road 0 anonymous cpts_not_modified 10 11
+20-Mar-2016 13:55:19 example_folder img1 15 15 ::1  road 0 anonymous cpts_not_modified 11 12
+20-Mar-2016 15:34:42 training1 biopolis1 0 1 ::1  road 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 15:47:01 training1 biopolis1 0 1 ::1  sky 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 15:47:08 training1 biopolis1 1 2 ::1  highveg 2 anonymous cpts_not_modified 0 0
+20-Mar-2016 16:00:53 training1 biopolis1 2 3 ::1  road 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 16:01:09 training1 biopolis1 3 4 ::1  road 2 anonymous cpts_not_modified 0 0
+20-Mar-2016 16:20:28 training1 biopolis1 4 5 ::1  sky 1 anonymous cpts_not_modified 0 0
+20-Mar-2016 16:20:47 training1 biopolis1 5 5 ::1  sky 0 anonymous cpts_not_modified 0 1
+20-Mar-2016 16:21:22 training1 biopolis1 5 6 ::1  sky 1 anonymous cpts_not_modified 1 1
+20-Mar-2016 16:31:30 training1 biopolis1 6 6 ::1  sky 0 anonymous cpts_not_modified 1 2
+20-Mar-2016 16:31:52 training1 biopolis1 6 6 ::1  sky 0 anonymous cpts_not_modified 2 3
+20-Mar-2016 16:32:06 training1 biopolis1 6 7 ::1  sky 1 anonymous cpts_not_modified 3 3
+20-Mar-2016 16:32:12 training1 biopolis1 7 7 ::1  sky 0 anonymous cpts_not_modified 3 4
+20-Mar-2016 16:50:04 training1 biopolis1 7 7 ::1  highveg 0 anonymous cpts_not_modified 4 5
+20-Mar-2016 16:50:07 training1 biopolis1 7 8 ::1  sky 1 anonymous cpts_not_modified 5 5
+20-Mar-2016 16:53:28 training1 biopolis1 8 9 ::1  sky 1 anonymous cpts_not_modified 5 5
+20-Mar-2016 16:56:13 training1 biopolis1 9 10 ::1  sky 1 anonymous cpts_not_modified 5 5
+20-Mar-2016 17:10:54 example_folder img1 15 15 ::1  object 0 anonymous cpts_not_modified 12 13
+20-Mar-2016 17:11:41 example_folder img1 15 16 ::1  highveg 1 anonymous cpts_not_modified 13 13
+20-Mar-2016 17:41:37 training1 biopolis1 10 11 ::1  Road 1 anonymous cpts_not_modified 5 5
+20-Mar-2016 17:41:43 training1 biopolis1 11 12 ::1  HighVeg 2 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:15:59   ::1 *XML_ERROR 
+20-Mar-2016 18:16:08   ::1 *XML_ERROR 
+20-Mar-2016 18:16:28   ::1 *XML_ERROR 
+20-Mar-2016 18:19:31 training1 biopolis1 12 11 ::1  HighVeg 0 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:19:47 training1 biopolis1 11 10 ::1  Road 0 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:20:04 training1 biopolis1 10 9 ::1  road 0 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:20:17 training1 biopolis1 9 10 ::1  Sky 1 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:20:36 training1 biopolis1 10 9 ::1  Sky 0 anonymous cpts_not_modified 5 5
+20-Mar-2016 18:20:45 training1 biopolis1 9 10 ::1  HighVeg 1 anonymous cpts_not_modified 5 5
+25-Mar-2016 10:04:23 example_folder img1 16 15 ::1  highveg 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:20:46 example_folder img1 15 16 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:37:48 example_folder img1 16 16 ::1  Sky->Road 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:38:28 example_folder img1 16 16 ::1  Road->Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:43:31 example_folder img1 16 16 ::1  Sky->Object 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:43:45 example_folder img1 16 16 ::1  Object->Sky 0 anonymous cpts_modified 13 13
+25-Mar-2016 10:45:22 example_folder img1 16 16 ::1  Sky->HighVeg 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:45:28 example_folder img1 16 16 ::1  HighVeg->Sky 0 anonymous cpts_modified 13 13
+25-Mar-2016 10:45:54 example_folder img1 16 15 ::1  Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:46:10 example_folder img1 15 16 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:46:29 example_folder img1 16 16 ::1  Object->Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 10:58:23 example_folder img1 16 16 ::1  Sky->HighVeg 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 17:58:06 example_folder img1 16 17 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 17:58:12 example_folder img1 17 17 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 17:58:16 example_folder img1 17 17 ::1  Sky->Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 17:59:29 example_folder img1 17 17 ::1  Sky->Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 17:59:32 example_folder img1 17 17 ::1  Road->Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:04:17 example_folder img1 17 17 ::1  *empty*    13 13
+25-Mar-2016 18:04:19 example_folder img1 17 16 ::1  Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:04:32 example_folder img1 16 17 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:04:43 example_folder img1 17 16 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:04:58 example_folder img1 16 17 ::1  Sky 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:05:05 example_folder img1 17 16 ::1  Sky 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:06:28 example_folder img1 16 17 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:06:32 example_folder img1 17 16 ::1  Object 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:06:49 example_folder img1 16 17 ::1  Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:07:03 example_folder img1 17 16 ::1  Road 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:10:49 example_folder img1 16 17 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:00 example_folder img1 17 18 ::1  Road 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:03 example_folder img1 18 17 ::1  Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:14 example_folder img1 17 18 ::1  Road 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:28 example_folder img1 18 17 ::1  Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:41 example_folder img1 17 18 ::1  HighVeg 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:11:51 example_folder img1 18 18 ::1  HighVeg->Sky 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:12:01 example_folder img1 18 17 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:12:07 example_folder img1 17 18 ::1  Sky 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:12:28 example_folder img1 18 17 ::1  Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:12:40 example_folder img1 17 18 ::1  Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:15:56 example_folder img1 18 17 ::1  Road 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:16:14 example_folder img1 17 18 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:16:33 example_folder img1 18 17 ::1  Object 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:16:50 example_folder img1 17 18 ::1  HighVeg 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:17:08 example_folder img1 18 17 ::1  HighVeg 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:17:21 example_folder img1 17 18 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:20:04 example_folder img1 18 19 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:21:28   ::1 *XML_ERROR 
+25-Mar-2016 18:22:40 example_folder img1 19 18 ::1  Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:23:00 example_folder img1 18 19 ::1  Road 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:23:23 example_folder img1 19 20 ::1  Sky 2 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:23:45 example_folder img1 20 19 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:26:18 example_folder img1 19 20 ::1  Sky 1 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:26:33 example_folder img1 20 19 ::1  Sky 0 anonymous cpts_not_modified 13 13
+25-Mar-2016 18:27:06 example_folder img1 19 20 ::1  Road 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:20:52   ::1 *XML_ERROR 
+26-Mar-2016 02:30:25 example_folder img1 20 19 ::1  Road 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:30:32 example_folder img1 19 18 ::1  Road 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:36:37 example_folder img1 18 17 ::1  Sky 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:37:12 example_folder img1 17 16 ::1  Sky 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:37:19 example_folder img1 16 15 ::1  HighVeg 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:38:18 example_folder img1 15 16 ::1  Sky 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:49:23 example_folder img1 16 15 ::1  Sky 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:49:36 example_folder img1 15 16 ::1  Sky 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:49:47 example_folder img1 16 15 ::1  Sky 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:50:01 example_folder img1 15 16 ::1  Object 2 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:52:30 example_folder img1 16 17 ::1  Sky 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:52:35 example_folder img1 17 16 ::1  Sky 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 02:52:56 example_folder img1 16 17 ::1  Road 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:16:09 example_folder img1 17 18 ::1  Sky 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:17:09 example_folder img1 18 17 ::1  Sky 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:17:27 example_folder img1 17 18 ::1  Road 1 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:19:19 example_folder img1 18 17 ::1  Road 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:19:22 example_folder img1 17 16 ::1  Road 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:19:26 example_folder img1 16 15 ::1  Object 0 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:19:32 example_folder img1 15 15 ::1  *empty* -1 anonymous cpts_not_modified 13 13
+26-Mar-2016 03:20:23 example_folder img1 0 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:20:36 example_folder img1 1 2 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:20:51 example_folder img1 2 1 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:21:10 example_folder img1 1 2 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:31:53 example_folder img1 2 1 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:34:11 example_folder img1 1 2 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:34:17 example_folder img1 2 1 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:34:44 example_folder img1 1 2 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:34:51 example_folder img1 2 1 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:35:25 example_folder img1 1 2 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:35:31 example_folder img1 2 2 ::1  HighVeg->Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:35:50 example_folder img1 2 2 ::1  Sky->HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:35:55 example_folder img1 2 1 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:36:16 example_folder img1 1 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:36:22 example_folder img1 2 1 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:36:36 example_folder img1 1 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:36:43 example_folder img1 2 1 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:36:55 example_folder img1 1 0 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:37:08 example_folder img1 0 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:37:19 example_folder img1 1 2 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:37:23 example_folder img1 2 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:37:28 example_folder img1 1 0 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:39:33 example_folder img1 0 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:39:40 example_folder img1 1 0 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:41:46 example_folder img1 0 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:42:01 example_folder img1 1 2 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:42:14 example_folder img1 2 3 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:42:36 example_folder img1 3 2 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:43:18 example_folder img1 2 1 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 03:44:24 example_folder img1 1 0 ::1  Sky 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 05:55:36 example_folder img1 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 05:55:42 example_folder img1 1 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 05:55:48 example_folder img1 2 3 ::1  Object 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 05:56:08 example_folder img1 3 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:43:17 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:43:36 example_folder img1 3 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:43:51 example_folder img1 2 3 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:44:05 example_folder img1 3 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:48:05 example_folder img1 2 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:48:23 example_folder img1 3 2 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:48:37 example_folder img1 2 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:48:46 example_folder img1 3 2 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:52:05 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 07:52:16 example_folder img1 3 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:06:51 example_folder img1 2 3 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:07:02 example_folder img1 3 4 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:07:11 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:08:07 example_folder img1 3 4 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:08:18 example_folder img1 4 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:09:12 example_folder img1 3 4 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:09:19 example_folder img1 4 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:11:15 example_folder img1 3 4 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:11:23 example_folder img1 4 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:14:10 example_folder img1 3 4 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:14:19 example_folder img1 4 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:15:10 example_folder img1 3 4 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:15:26 example_folder img1 4 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:21:58 example_folder img1 3 4 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:22:10 example_folder img1 4 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:23:40 example_folder img1 3 4 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:23:48 example_folder img1 4 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:35:20 example_folder img1 3 4 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:35:34 example_folder img1 4 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:36:07 example_folder img1 3 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:36:48 example_folder img1 2 3 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:36:55 example_folder img1 3 4 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:37:05 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:37:20 example_folder img1 3 4 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:37:25 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:37:29 example_folder img1 3 2 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:37:43 example_folder img1 2 3 ::1  Road 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:46:26 example_folder img1 3 3 ::1  *empty*    0 0
+26-Mar-2016 08:46:31 example_folder img1 3 3 ::1  Road->Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 08:46:37 example_folder img1 3 2 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:07:44 example_folder img1 2 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:07:55 example_folder img1 3 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:07:59 example_folder img1 3 3 ::1  Road->Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:08:09 example_folder img1 3 2 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:08:28 example_folder img1 2 1 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:08:36 example_folder img1 1 2 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:08:45 example_folder img1 2 3 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:09:13 example_folder img1 3 4 ::1  Road 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:09:19 example_folder img1 4 3 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:10:06 example_folder img1 3 2 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:11:15 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:11:21 example_folder img1 3 2 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:11:36 example_folder img1 2 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:11:42 example_folder img1 3 4 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:11:46 example_folder img1 4 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:12:07 example_folder img1 3 4 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:12:19 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:14:36 example_folder img1 3 2 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:18:15 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:18:20 example_folder img1 3 2 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:21:14 example_folder img1 2 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:21:51 example_folder img1 3 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:22:37 example_folder img1 2 3 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:22:45 example_folder img1 3 4 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:22:50 example_folder img1 4 3 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:23:55 example_folder img1 3 2 ::1  Sky 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:24:12 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:24:17 example_folder img1 3 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:26:23 example_folder img1 2 3 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:26:31 example_folder img1 3 4 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:26:35 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:29:18 example_folder img1 3 2 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:29:26 example_folder img1 2 3 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:29:33 example_folder img1 3 4 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:29:38 example_folder img1 4 3 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:30:02 example_folder img1 3 4 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:30:13 example_folder img1 4 3 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:30:58 example_folder img1 3 4 ::1  HighVeg 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:31:17 example_folder img1 4 3 ::1  Object 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:41:37 example_folder img1 3 2 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:42:04 example_folder img1 2 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:42:15 example_folder img1 3 4 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:42:18 example_folder img1 4 3 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:43:31 example_folder img1 3 4 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:43:34 example_folder img1 4 3 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:46:23 example_folder img1 3 4 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 09:46:33 example_folder img1 4 3 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 10:00:11 example_folder img1 3 4 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 10:00:21 example_folder img1 4 5 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 10:00:24 example_folder img1 5 4 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 10:00:31 example_folder img1 4 3 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 10:00:47 example_folder img1 3 2 ::1  Object 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:17:47 example_folder img1 2 1 ::1  Sky 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:17:59 example_folder img1 1 2 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:05 example_folder img1 2 1 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:17 example_folder img1 1 2 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:27 example_folder img1 2 3 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:37 example_folder img1 3 4 ::1  HighVeg 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:43 example_folder img1 4 3 ::1  Object 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:51 example_folder img1 3 2 ::1  Object 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:18:55 example_folder img1 2 1 ::1  HighVeg 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:03 example_folder img1 1 2 ::1  Object 5 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:10 example_folder img1 2 3 ::1  Road 6 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:13 example_folder img1 3 2 ::1  Object 6 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:27 example_folder img1 2 1 ::1  Sky 6 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:40 example_folder img1 1 2 ::1  Object 7 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:45 example_folder img1 2 3 ::1  HighVeg 8 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:19:53 example_folder img1 3 4 ::1  Sky 9 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:23:55 example_folder img1 4 3 ::1  Object 9 anonymous cpts_not_modified 0 0
+26-Mar-2016 14:24:07 example_folder img1 3 2 ::1  Sky 9 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:37:45 example_folder img1 2 1 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:37:48 example_folder img1 1 0 ::1  Road 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:37:57 example_folder img1 0 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:38:04 example_folder img1 1 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:38:13 example_folder img1 2 3 ::1  Road 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:38:21 example_folder img1 3 4 ::1  HighVeg 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:41:22 example_folder img1 4 3 ::1  Sky 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:41:34 example_folder img1 3 2 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 16:41:39 example_folder img1 2 1 ::1  Object 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 17:49:43 example_folder img1 1 2 ::1  Road 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:06:31 example_folder img1 2 3 ::1  Object 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:57:37 example_folder img1 3 2 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:57:39 example_folder img1 2 1 ::1  Road 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:57:41 example_folder img1 1 0 ::1  HighVeg 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:58:11 example_folder img1 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 18:59:18 example_folder img1 1 0 ::1  Sky 0 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:03:22 example_folder img1 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:05:01 example_folder img1 1 2 ::1  Object 2 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:06:22 example_folder img1 2 3 ::1  Road 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:08:14 example_folder img1 3 4 ::1  Road 4 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:08:21 example_folder img1 4 3 ::1  Road 3 anonymous cpts_not_modified 0 0
+26-Mar-2016 19:08:54 example_folder img1 3 4 ::1  Object 4 anonymous cpts_not_modified 0 0
+27-Mar-2016 06:51:19 example_folder img1 4 5 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 06:51:29 example_folder img1 5 6 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+27-Mar-2016 08:22:21 example_folder img1 6 5 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 08:22:34 example_folder img1 5 6 ::1  Sky 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 08:23:05 example_folder img1 6 7 ::1  Road 2 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:29:40 training1 biopolis1 10 9 ::1  HighVeg 0 anonymous cpts_not_modified 5 5
+27-Mar-2016 15:29:42 training1 biopolis1 9 8 ::1  sky 0 anonymous cpts_not_modified 5 5
+27-Mar-2016 15:29:44 training1 biopolis1 8 7 ::1  highveg 0 anonymous cpts_not_modified 5 5
+27-Mar-2016 15:29:46 training1 biopolis1 7 6 ::1  sky 0 anonymous cpts_not_modified 5 4
+27-Mar-2016 15:29:47 training1 biopolis1 6 5 ::1  sky 0 anonymous cpts_not_modified 4 3
+27-Mar-2016 15:29:49 training1 biopolis1 5 4 ::1  sky 0 anonymous cpts_not_modified 3 2
+27-Mar-2016 15:29:51 training1 biopolis1 4 3 ::1  road 0 anonymous cpts_not_modified 2 2
+27-Mar-2016 15:29:52 training1 biopolis1 3 2 ::1  road 0 anonymous cpts_not_modified 2 2
+27-Mar-2016 15:29:54 training1 biopolis1 2 1 ::1  highveg 0 anonymous cpts_not_modified 2 1
+27-Mar-2016 15:29:56 training1 biopolis1 1 0 ::1  sky 0 anonymous cpts_not_modified 1 0
+27-Mar-2016 15:30:05 training1 biopolis1 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:31:13 training1 biopolis1 1 2 ::1  Object 2 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:31:54 training1 biopolis1 2 3 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:32:24 training1 biopolis1 3 4 ::1  Road 4 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:32:59 training1 biopolis1 4 5 ::1  Object 5 anonymous cpts_not_modified 0 0
+27-Mar-2016 15:33:31 training1 biopolis1 5 6 ::1  Object 6 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:29:08 training1 biopolis1 6 6 ::1  Object->Kerb 0 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:29:16 training1 biopolis1 6 6 ::1  Object->Obstacles 0 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:29:26 training1 biopolis1 6 6 ::1  Object->Building 0 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:30:30 training1 biopolis1 6 7 ::1  Obstacles 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:31:50 training1 biopolis1 7 8 ::1  Obstacles 2 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:32:16 training1 biopolis1 8 9 ::1  Obstacles 3 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:32:42 training1 biopolis1 9 10 ::1  Obstacles 4 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:33:29 training1 biopolis1 10 11 ::1  Obstacles 1 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:33:51 training1 biopolis1 11 12 ::1  WhiteLine 2 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:05 training1 biopolis1 12 13 ::1  WhiteLine 3 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:16 training1 biopolis1 13 14 ::1  WhiteLine 4 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:26 training1 biopolis1 14 15 ::1  WhiteLine 5 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:33 training1 biopolis1 15 16 ::1  WhiteLine 6 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:40 training1 biopolis1 16 17 ::1  WhiteLine 7 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:47 training1 biopolis1 17 18 ::1  WhiteLine 8 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:34:53 training1 biopolis1 18 19 ::1  WhiteLine 9 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:01 training1 biopolis1 19 20 ::1  WhiteLine 10 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:09 training1 biopolis1 20 21 ::1  WhiteLine 11 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:17 training1 biopolis1 21 22 ::1  WhiteLine 12 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:23 training1 biopolis1 22 23 ::1  WhiteLine 13 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:41 training1 biopolis1 23 24 ::1  Kerb 14 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:35:52 training1 biopolis1 24 25 ::1  Kerb 15 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:36:05 training1 biopolis1 25 26 ::1  Pavement 16 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:36:33 training1 biopolis1 26 27 ::1  HighVeg 17 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:39:45 training1 biopolis1 27 28 ::1  Sky 18 anonymous cpts_not_modified 0 0
+27-Mar-2016 18:39:52 training1 biopolis1 28 27 ::1  Sky 18 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:41:38 training1 biopolis2 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:42:01 training1 biopolis2 1 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:42:26 training1 biopolis2 2 3 ::1  Building 3 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:43:10 training1 biopolis2 3 4 ::1  Building 4 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:43:29 training1 biopolis2 4 5 ::1  Road 5 anonymous cpts_not_modified 0 0
+29-Mar-2016 06:43:58 training1 biopolis2 5 6 ::1  WhiteLine 6 anonymous cpts_not_modified 0 0
+29-Mar-2016 13:26:57 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:21:20 training1 biopolis2 6 7 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:24:09 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:31:35 training1 biopolis2 7 8 ::1  LowVeg 2 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:32:33 training1 biopolis1 27 28 ::1  TreeTrunk 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:32:41 training1 biopolis1 28 27 ::1  TreeTrunk 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:40:10 training1 biopolis1 27 28 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:40:16 training1 biopolis1 28 27 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:40:19 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:40:27 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:40:31 training1 biopolis1 27 26 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:57:36 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 17:58:26 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:02 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:12 training1 biopolis1 27 28 ::1  Sky 2 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:24 training1 biopolis1 28 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:27 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:43 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:00:49 training1 biopolis1 27 28 ::1  Sky 2 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:01:35 training1 biopolis1 28 29 ::1  Sky 1 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:01:43 training1 biopolis1 29 28 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:01:46 training1 biopolis1 28 27 ::1  Sky 0 anonymous cpts_not_modified 0 0
+29-Mar-2016 18:01:49 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 08:41:53 training1 biopolis1 26 26 ::1  Building->Road 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 08:42:11 training1 biopolis1 26 26 ::1  Road->Building 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:16:24 training1 biopolis1 26 26 ::1  Building->Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:17:54 training1 biopolis1 26 26 ::1  Sky->Building 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:31:47 training1 biopolis1 26 26 ::1  Building->Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:32:19 training1 biopolis1 26 26 ::1  Sky->Building 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:35:35 training1 biopolis1 26 26 ::1  Building->TreeTrunk 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:40:26 training1 biopolis1 26 26 ::1  TreeTrunk->Pavement 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:48:54 training1 biopolis1 26 26 ::1  Pavement->Building 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:50:40 training1 biopolis1 26 26 ::1  Building->Kerb 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 09:59:55 training1 biopolis1 26 26 ::1  Kerb->Building 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:40:36 training1 biopolis3 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:40:45 training1 biopolis3 1 2 ::1  Road 2 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:54:10 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:54:19 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:55:18 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:55:22 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:56:15 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:56:23 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:56:49 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:57:01 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:57:54 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:57:57 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:58:15 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 15:58:19 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:00:52 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:01:04 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:05:47 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:05:51 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:07:10 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:07:14 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:07:46 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:07:52 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:10:58 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:11:05 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:11:34 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 16:12:50 training1 biopolis1 27 27 ::1  Sky->Sky 0 anonymous cpts_modified 0 0
+30-Mar-2016 16:40:33 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+30-Mar-2016 17:21:34 training1 biopolis1 26 27 ::1  Pavement 1 anonymous cpts_not_modified 0 0
+30-Mar-2016 17:21:40 training1 biopolis1 27 26 ::1  Pavement 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:14 training1 biopolis3 2 1 ::1  Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:16 training1 biopolis3 1 0 ::1  Road 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:21 training1 biopolis2 8 7 ::1  Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:24 training1 biopolis2 7 6 ::1  Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:26 training1 biopolis2 6 5 ::1  Building 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:43 training1 biopolis2 5 4 ::1  Building 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:45 training1 biopolis2 4 3 ::1  Road 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:48 training1 biopolis2 3 2 ::1  LowVeg 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:50 training1 biopolis2 2 1 ::1  Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:40:53 training1 biopolis2 1 0 ::1  WhiteLine 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:52:37 training1 biopolis2 0 1 ::1  Road 1 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:52:41 training1 biopolis2 1 0 ::1  Road 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 01:55:39 training1 biopolis2 0 1 ::1  WhiteLine 1 anonymous cpts_not_modified 0 0
+31-Mar-2016 08:50:50 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+31-Mar-2016 08:53:04 training1 biopolis1 27 27 ::1  Sky->Road 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 08:54:25 training1 biopolis1 27 27 ::1  Road->Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 08:54:29 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 08:55:56 training1 biopolis1 26 27 ::1  Sky 1 anonymous cpts_not_modified 0 0
+31-Mar-2016 09:05:17 training1 biopolis1 27 27 ::1  Sky->Sky 0 anonymous cpts_not_modified 0 0
+31-Mar-2016 09:05:20 training1 biopolis1 27 26 ::1  Sky 0 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:28:55 nus_engin nusEngin1 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:29:52 nus_engin nusEngin1 1 2 ::1  Road 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:30:42 nus_engin nusEngin1 2 3 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:33:09 nus_engin nusEngin1 3 4 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:33:36 nus_engin nusEngin1 4 5 ::1  TreeTrunk 4 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:34:40 nus_engin nusEngin1 5 6 ::1  TreeTrunk 5 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:35:00 nus_engin nusEngin1 6 7 ::1  Obstacles 6 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:35:13 nus_engin nusEngin1 7 8 ::1  Pole 7 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:35:38 nus_engin nusEngin1 8 9 ::1  Pole 8 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:35:51 nus_engin nusEngin1 9 10 ::1  Obstacles 9 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:36:44 nus_engin nusEngin1 10 11 ::1  Pole 10 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:37:02 nus_engin nusEngin1 11 12 ::1  Obstacles 11 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:37:21 nus_engin nusEngin1 12 13 ::1  Obstacles 12 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:37:32 nus_engin nusEngin1 13 14 ::1  Pole 13 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:39:59 nus_engin nusEngin1 14 15 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:40:10 nus_engin nusEngin1 15 16 ::1  HighVeg 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:40:24 nus_engin nusEngin1 16 17 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:41:02 nus_engin nusEngin1 17 18 ::1  Pavement 4 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:43:03 nus_engin nusEngin1 18 19 ::1  Kerb 5 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:43:35 nus_engin nusEngin1 19 20 ::1  WhiteLine 6 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:43:53 nus_engin nusEngin1 20 21 ::1  WhiteLine 7 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:44:01 nus_engin nusEngin1 21 22 ::1  WhiteLine 8 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:44:22 nus_engin nusEngin1 22 22 ::1  WhiteLine->Sky 8 anonymous cpts_modified 0 0
+04-Apr-2016 15:44:30 nus_engin nusEngin1 22 23 ::1  WhiteLine 9 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:44:48 nus_engin nusEngin1 23 24 ::1  Kerb 10 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:44:53 nus_engin nusEngin1 24 24 ::1  Kerb->WhiteLine 10 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:45:14 nus_engin nusEngin1 24 25 ::1  WhiteLine 11 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:45:28 nus_engin nusEngin1 25 25 ::1  Sky->WhiteLine 11 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:45:42 nus_engin nusEngin1 25 26 ::1  WhiteLine 12 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:46:04 nus_engin nusEngin1 26 27 ::1  Obstacles 13 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:46:19 nus_engin nusEngin1 27 28 ::1  Obstacles 14 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:46:51 nus_engin nusEngin1 28 29 ::1  YellowLine 15 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:47:02 nus_engin nusEngin1 29 30 ::1  Road 16 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:47:21 nus_engin nusEngin1 30 31 ::1  Road 17 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:47:34 nus_engin nusEngin1 31 32 ::1  Road 18 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:47:43 nus_engin nusEngin1 32 33 ::1  Road 19 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:47:57 nus_engin nusEngin1 33 34 ::1  WhiteLine 20 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:48:36 nus_engin nusEngin1 34 35 ::1  WhiteLine 21 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:49:09 nus_engin nusEngin1 35 36 ::1  WhiteLine 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:49:46 nus_engin nusEngin1 36 37 ::1  Building 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:51:29 nus_engin nusEngin1 37 38 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:51:50 nus_engin nusEngin1 38 39 ::1  TreeTrunk 4 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:52:09 nus_engin nusEngin1 39 40 ::1  TreeTrunk 5 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:52:28 nus_engin nusEngin1 40 41 ::1  TreeTrunk 6 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:52:44 nus_engin nusEngin1 41 42 ::1  TreeTrunk 7 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:52:59 nus_engin nusEngin1 42 43 ::1  HighVeg 8 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:53:15 nus_engin nusEngin1 43 44 ::1  HighVeg 9 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:53:30 nus_engin nusEngin1 44 45 ::1  HighVeg 10 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:53:41 nus_engin nusEngin1 45 46 ::1  HighVeg 11 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:54:00 nus_engin nusEngin1 46 47 ::1  TreeTrunk 12 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:54:22 nus_engin nusEngin1 47 48 ::1  TreeTrunk 13 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:54:29 nus_engin nusEngin1 48 49 ::1  Building 14 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:54:39 nus_engin nusEngin1 49 50 ::1  Building 15 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:54:49 nus_engin nusEngin1 50 51 ::1  Building 16 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:55:47 nus_engin nusEngin1 51 52 ::1  LowVeg 17 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:56:26 nus_engin nusEngin1 52 53 ::1  Pavement 18 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:57:09 nus_engin nusEngin1 53 54 ::1  TreeTrunk 19 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:57:28 nus_engin nusEngin1 54 55 ::1  HighVeg 20 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:57:44 nus_engin nusEngin1 55 56 ::1  HighVeg 21 anonymous cpts_not_modified 0 0
+04-Apr-2016 15:58:11 nus_engin nusEngin1 56 57 ::1  TreeTrunk 22 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:05:07 nus_engin nusEngin1 57 58 ::1  Road 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:05:32 nus_engin nusEngin1 58 59 ::1  Pole 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:05:52 nus_engin nusEngin1 59 59 ::1  Pole->Sky 2 anonymous cpts_modified 0 0
+04-Apr-2016 16:06:05 nus_engin nusEngin1 59 60 ::1  Obstacles 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:06:23 nus_engin nusEngin1 60 60 ::1  Sky->Pole 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:07:02 nus_engin nusEngin1 60 61 ::1  WhiteLine 4 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:07:20 nus_engin nusEngin1 61 62 ::1  Road 5 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:07:50 nus_engin nusEngin1 62 63 ::1  HighVeg 6 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:07:59 nus_engin nusEngin1 63 64 ::1  Obstacles 7 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:08:12 nus_engin nusEngin1 64 65 ::1  Pole 8 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:08:27 nus_engin nusEngin1 65 66 ::1  HighVeg 9 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:08:53 nus_engin nusEngin1 66 67 ::1  HighVeg 10 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:09:02 nus_engin nusEngin1 67 68 ::1  Obstacles 11 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:09:10 nus_engin nusEngin1 68 69 ::1  Pole 12 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:09:33 nus_engin nusEngin1 69 70 ::1  HighVeg 13 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:16:46 nus_engin nusEngin1 70 71 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:17:02 nus_engin nusEngin1 71 72 ::1  Sky 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:17:42 nus_engin nusEngin1 72 73 ::1  Sky 3 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:17:45 nus_engin nusEngin1 73 72 ::1  Sky 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:17:52 nus_engin nusEngin1 72 71 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:17:54 nus_engin nusEngin1 71 70 ::1  Sky 0 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:18:35 nus_engin nusEngin1 70 71 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:18:38 nus_engin nusEngin1 71 72 ::1  Sky 2 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:18:44 nus_engin nusEngin1 72 71 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:18:45 nus_engin nusEngin1 71 70 ::1  Sky 0 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:19:09 nus_engin nusEngin1 70 71 ::1  Sky 1 anonymous cpts_not_modified 0 0
+04-Apr-2016 16:19:12 nus_engin nusEngin1 71 70 ::1  Sky 0 anonymous cpts_not_modified 0 0
+04-Apr-2016 18:46:51 nus_engin nusEngin00001 70 70 ::1  WhiteLine->Sky 0 anonymous cpts_not_modified 0 0
+04-Apr-2016 18:48:17 nus_engin nusEngin00001 70 70 ::1  Sky->WhiteLine 0 anonymous cpts_not_modified 0 0
+05-Apr-2016 09:36:59 nus_engin nusEngin00009 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+05-Apr-2016 09:37:14 nus_engin nusEngin00009 1 1 ::1  Sky->Sky 1 anonymous cpts_modified 0 0
+05-Apr-2016 09:38:34 nus_engin nusEngin00009 1 2 ::1  Building 2 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:06:29 nus_engin nusEngin00009 2 2 ::1  Building->Sky 2 anonymous cpts_modified 0 0
+05-Apr-2016 14:08:22 nus_engin nusEngin00009 2 3 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:11:01 nus_engin nusEngin00009 3 4 ::1  Object 1 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:11:27 nus_engin nusEngin00009 4 5 ::1  Pole 2 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:12:17 nus_engin nusEngin00009 5 6 ::1  LowVeg 3 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:12:32 nus_engin nusEngin00009 6 6 ::1  Sky->Building 3 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:13:43 nus_engin nusEngin00009 6 7 ::1  Object 4 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:15:04 nus_engin nusEngin00009 7 8 ::1  Road 5 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:16:02 nus_engin nusEngin00009 8 9 ::1  Kerb 6 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:16:46 nus_engin nusEngin00009 9 10 ::1  Kerb 7 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:17:20 nus_engin nusEngin00009 10 11 ::1  Road 8 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:17:51 nus_engin nusEngin00009 11 12 ::1  WhiteLine 9 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:18:25 nus_engin nusEngin00009 12 13 ::1  WhiteLine 10 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:19:14 nus_engin nusEngin00009 13 14 ::1  Pavement 11 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:19:38 nus_engin nusEngin00009 14 15 ::1  Kerb 12 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:20:09 nus_engin nusEngin00009 15 16 ::1  LowVeg 13 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:20:40 nus_engin nusEngin00009 16 17 ::1  Object 14 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:20:50 nus_engin nusEngin00009 17 17 ::1  Object->Sky 14 anonymous cpts_modified 0 0
+05-Apr-2016 14:21:18 nus_engin nusEngin00009 17 18 ::1  Pole 15 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:21:24 nus_engin nusEngin00009 18 18 ::1  Sky->Object 15 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:21:31 nus_engin nusEngin00009 18 18 ::1  Object->Sky 15 anonymous cpts_modified 0 0
+05-Apr-2016 14:21:40 nus_engin nusEngin00009 18 18 ::1  Sky->Object 15 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:21:57 nus_engin nusEngin00009 18 19 ::1  Object 16 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:22:12 nus_engin nusEngin00009 19 20 ::1  Object 17 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:22:28 nus_engin nusEngin00009 20 21 ::1  Pole 18 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:22:31 nus_engin nusEngin00009 21 21 ::1  Object->Sky 18 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:22:43 nus_engin nusEngin00009 21 21 ::1  Sky->Sky 18 anonymous cpts_modified 0 0
+05-Apr-2016 14:22:48 nus_engin nusEngin00009 21 21 ::1  Sky->Object 18 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:23:03 nus_engin nusEngin00009 21 21 ::1  Pole->Pole 18 anonymous cpts_modified 0 0
+05-Apr-2016 14:23:09 nus_engin nusEngin00009 21 21 ::1  Object->Object 18 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:23:55 nus_engin nusEngin00009 21 22 ::1  TreeTrunk 19 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:24:07 nus_engin nusEngin00009 22 23 ::1  TreeTrunk 20 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:24:18 nus_engin nusEngin00009 23 24 ::1  TreeTrunk 21 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:24:56 nus_engin nusEngin00009 24 25 ::1  TreeTrunk 22 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:25:31 nus_engin nusEngin00009 25 26 ::1  TreeTrunk 23 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:37:46 nus_engin nusEngin00012 0 1 ::1  Sky 24 anonymous cpts_not_modified 0 0
+05-Apr-2016 14:38:11 nus_engin nusEngin00012 1 2 ::1  Sky 25 anonymous cpts_not_modified 0 0
+05-Apr-2016 17:55:14 nus_engin nusEngin00012 2 3 ::1  Sky 26 anonymous cpts_not_modified 0 0
+05-Apr-2016 17:55:17 nus_engin nusEngin00012 3 2 ::1  Sky 25 anonymous cpts_not_modified 0 0
+05-Apr-2016 17:57:25 nus_engin nusEngin00001 70 70 ::1  WhiteLine->Sky 0 anonymous cpts_not_modified 0 0
+05-Apr-2016 17:58:27 nus_engin nusEngin00001 70 70 ::1  Sky->WhiteLine 0 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:05:50 nus_engin nusEngin00012 2 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:07:23 nus_engin nusEngin00012 3 4 ::1  Object 2 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:07:45 nus_engin nusEngin00012 4 5 ::1  HighVeg 3 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:07:57 nus_engin nusEngin00012 5 6 ::1  HighVeg 4 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:08:04 nus_engin nusEngin00012 6 7 ::1  HighVeg 5 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:08:12 nus_engin nusEngin00012 7 8 ::1  HighVeg 6 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:08:24 nus_engin nusEngin00012 8 9 ::1  HighVeg 7 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:08:36 nus_engin nusEngin00012 9 10 ::1  Object 8 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:09:56 nus_engin nusEngin00012 10 11 ::1  Building 9 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:11:10 nus_engin nusEngin00012 11 12 ::1  TreeTrunk 10 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:11:36 nus_engin nusEngin00012 12 13 ::1  TreeTrunk 11 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:12:01 nus_engin nusEngin00012 13 14 ::1  Building 12 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:13:05 nus_engin nusEngin00012 14 15 ::1  Sky 13 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:14:29 nus_engin nusEngin00012 15 16 ::1  HighVeg 14 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:15:13 nus_engin nusEngin00012 16 17 ::1  TreeTrunk 15 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:16:18 nus_engin nusEngin00012 17 18 ::1  TreeTrunk 16 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:16:32 nus_engin nusEngin00012 18 19 ::1  HighVeg 17 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:17:00 nus_engin nusEngin00012 19 20 ::1  Object 18 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:17:09 nus_engin nusEngin00012 20 21 ::1  Object 19 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:17:50 nus_engin nusEngin00012 21 22 ::1  Object 20 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:18:35 nus_engin nusEngin00012 22 23 ::1  Pole 21 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:19:09 nus_engin nusEngin00012 23 24 ::1  Pole 22 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:19:34 nus_engin nusEngin00012 24 25 ::1  Object 23 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:19:52 nus_engin nusEngin00012 25 26 ::1  Object 24 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:20:15 nus_engin nusEngin00012 26 27 ::1  Object 25 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:20:40 nus_engin nusEngin00012 27 28 ::1  Object 26 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:21:40 nus_engin nusEngin00012 28 29 ::1  HighVeg 27 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:22:03 nus_engin nusEngin00012 29 30 ::1  Pole 28 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:24:28 nus_engin nusEngin00012 30 31 ::1  Road 29 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:25:22 nus_engin nusEngin00012 31 32 ::1  Pavement 30 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:26:04 nus_engin nusEngin00012 32 33 ::1  LowVeg 31 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:27:09 nus_engin nusEngin00012 33 34 ::1  Pole 32 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:28:40 nus_engin nusEngin00012 34 35 ::1  Kerb 33 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:31:40 nus_engin nusEngin00012 35 36 ::1  Kerb 34 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:34:22 nus_engin nusEngin00012 36 37 ::1  Object 35 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:35:20 nus_engin nusEngin00012 37 38 ::1  LowVeg 36 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:35:35 nus_engin nusEngin00012 38 39 ::1  Pole 37 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:36:18 nus_engin nusEngin00012 39 40 ::1  LowVeg 38 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:37:05 nus_engin nusEngin00012 40 41 ::1  Pavement 39 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:37:39 nus_engin nusEngin00012 41 42 ::1  WhiteLine 40 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:37:58 nus_engin nusEngin00012 42 43 ::1  WhiteLine 41 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:38:24 nus_engin nusEngin00012 43 44 ::1  WhiteLine 42 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:38:36 nus_engin nusEngin00012 44 45 ::1  WhiteLine 43 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:38:48 nus_engin nusEngin00012 45 46 ::1  WhiteLine 44 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:39:07 nus_engin nusEngin00012 46 47 ::1  WhiteLine 45 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:39:40 nus_engin nusEngin00012 47 48 ::1  WhiteLine 46 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:40:20 nus_engin nusEngin00012 48 49 ::1  WhiteLine 47 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:40:43 nus_engin nusEngin00012 49 50 ::1  WhiteLine 48 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:40:55 nus_engin nusEngin00012 50 51 ::1  WhiteLine 49 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:41:06 nus_engin nusEngin00012 51 52 ::1  WhiteLine 50 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:41:26 nus_engin nusEngin00012 52 53 ::1  WhiteLine 51 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:41:37 nus_engin nusEngin00012 53 54 ::1  WhiteLine 52 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:41:51 nus_engin nusEngin00012 54 55 ::1  WhiteLine 53 anonymous cpts_not_modified 0 0
+06-Apr-2016 14:43:23 nus_engin nusEngin00012 55 56 ::1  WhiteLine 54 anonymous cpts_not_modified 0 0
+06-Apr-2016 15:12:07 nus_engin nusEngin00012 56 56 ::1  HighVeg->LowVeg 0 anonymous cpts_not_modified 0 0
+06-Apr-2016 16:21:23 nus_engin nusEngin00014 0 1 ::1  Sky 1 anonymous cpts_not_modified 0 0
+06-Apr-2016 16:21:34 nus_engin nusEngin00014 1 2 ::1  Sky 2 anonymous cpts_not_modified 0 0
+06-Apr-2016 16:22:27 nus_engin nusEngin00014 2 3 ::1  Building 3 anonymous cpts_not_modified 0 0
+06-Apr-2016 16:23:09 nus_engin nusEngin00014 3 4 ::1  Building 4 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:30:31 nus_engin nusEngin00014 4 5 ::1  HighVeg 5 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:31:31 nus_engin nusEngin00014 5 6 ::1  HighVeg 6 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:31:55 nus_engin nusEngin00014 6 6 ::1  HighVeg->Sky 6 anonymous cpts_modified 0 0
+07-Apr-2016 03:32:23 nus_engin nusEngin00014 6 6 ::1  Sky->Sky 6 anonymous cpts_modified 0 0
+07-Apr-2016 03:32:42 nus_engin nusEngin00014 6 7 ::1  HighVeg 7 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:34:33 nus_engin nusEngin00014 7 8 ::1  LowVeg 8 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:34:57 nus_engin nusEngin00014 8 9 ::1  Object 9 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:35:21 nus_engin nusEngin00014 9 10 ::1  Pole 10 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:35:35 nus_engin nusEngin00014 10 11 ::1  Pole 11 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:36:18 nus_engin nusEngin00014 11 12 ::1  Object 12 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:36:31 nus_engin nusEngin00014 12 13 ::1  Pole 13 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:36:44 nus_engin nusEngin00014 13 14 ::1  Pole 14 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:37:23 nus_engin nusEngin00014 14 15 ::1  Kerb 15 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:37:37 nus_engin nusEngin00014 15 16 ::1  Road 16 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:38:26 nus_engin nusEngin00019 0 1 ::1  Sky 17 anonymous cpts_not_modified 0 0
+07-Apr-2016 03:53:43 nus_engin nusEngin00019 1 2 ::1  Building 1 anonymous cpts_not_modified 0 0
+08-Apr-2016 15:56:07 nus_engin nusEngin00019 2 3 ::1  HighVeg 1 anonymous cpts_not_modified 0 0
+08-Apr-2016 15:56:46 nus_engin nusEngin00019 3 4 ::1  Building 2 anonymous cpts_not_modified 0 0
+08-Apr-2016 15:57:26 nus_engin nusEngin00019 4 5 ::1  TreeTrunk 3 anonymous cpts_not_modified 0 0
+08-Apr-2016 15:58:29 nus_engin nusEngin00019 5 6 ::1  TreeTrunk 4 anonymous cpts_not_modified 0 0
+08-Apr-2016 15:58:55 nus_engin nusEngin00019 6 7 ::1  Building 5 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:22:48 nus_engin nusEngin00019 7 8 ::1  Object 6 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:23:39 nus_engin nusEngin00019 8 9 ::1  Pole 7 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:24:20 nus_engin nusEngin00019 9 10 ::1  Object 8 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:24:37 nus_engin nusEngin00019 10 11 ::1  Object 9 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:25:06 nus_engin nusEngin00019 11 12 ::1  Pole 10 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:25:36 nus_engin nusEngin00019 12 13 ::1  Object 11 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:26:10 nus_engin nusEngin00019 13 14 ::1  Pole 12 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:27:57 nus_engin nusEngin00019 14 15 ::1  LowVeg 13 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:28:15 nus_engin nusEngin00019 15 16 ::1  LowVeg 14 anonymous cpts_not_modified 0 0
+09-Apr-2016 01:44:07 nus_engin nusEngin00019 16 17 ::1  Road 15 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:09:59 nus_engin nusEngin00019 17 18 ::1  WhiteLine 16 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:10:36 nus_engin nusEngin00019 18 19 ::1  WhiteLine 17 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:11:32 nus_engin nusEngin00019 19 20 ::1  WhiteLine 18 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:12:11 nus_engin nusEngin00019 20 21 ::1  WhiteLine 19 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:12:51 nus_engin nusEngin00019 21 22 ::1  WhiteLine 20 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:13:44 nus_engin nusEngin00019 22 23 ::1  WhiteLine 21 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:14:18 nus_engin nusEngin00019 23 24 ::1  WhiteLine 22 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:14:46 nus_engin nusEngin00019 24 25 ::1  Road 23 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:15:15 nus_engin nusEngin00019 25 26 ::1  WhiteLine 24 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:15:31 nus_engin nusEngin00019 26 27 ::1  WhiteLine 25 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:25:49 nus_engin nusEngin00019 27 27 ::1  TreeTrunk->TreeTrunk 25 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:26:22 nus_engin nusEngin00019 27 28 ::1  TreeTrunk 26 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:26:39 nus_engin nusEngin00019 28 29 ::1  TreeTrunk 27 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:28:05 nus_engin nusEngin00019 29 30 ::1  LowVeg 28 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:28:48 nus_engin nusEngin00019 30 31 ::1  HighVeg 29 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:29:27 nus_engin nusEngin00019 31 32 ::1  Object 30 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:30:16 nus_engin nusEngin00019 32 33 ::1  Pole 31 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:30:43 nus_engin nusEngin00019 33 34 ::1  Object 32 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:31:25 nus_engin nusEngin00019 34 35 ::1  Building 33 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:31:41 nus_engin nusEngin00019 35 36 ::1  Object 34 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:31:52 nus_engin nusEngin00019 36 37 ::1  Object 35 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:32:03 nus_engin nusEngin00019 37 38 ::1  Object 36 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:32:30 nus_engin nusEngin00019 38 39 ::1  Pole 37 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:33:13 nus_engin nusEngin00019 39 40 ::1  Pavement 38 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:33:49 nus_engin nusEngin00019 40 41 ::1  Kerb 39 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:34:29 nus_engin nusEngin00019 41 42 ::1  Object 40 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:35:00 nus_engin nusEngin00019 42 43 ::1  Pavement 41 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:35:24 nus_engin nusEngin00019 43 44 ::1  Kerb 42 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:35:54 nus_engin nusEngin00019 44 45 ::1  Kerb 43 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:36:43 nus_engin nusEngin00019 45 46 ::1  Kerb 44 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:37:18 nus_engin nusEngin00019 46 47 ::1  Object 45 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:37:56 nus_engin nusEngin00019 47 47 ::1  Object->Sky 45 anonymous cpts_modified 0 0
+09-Apr-2016 02:38:03 nus_engin nusEngin00019 47 47 ::1  Sky->Object 45 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:38:45 nus_engin nusEngin00019 47 48 ::1  HighVeg 46 anonymous cpts_not_modified 0 0
+09-Apr-2016 02:38:57 nus_engin nusEngin00019 48 48 ::1  HighVeg->HighVeg 46 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:10:06 nus_engin nusEngin00019 48 49 ::1  YellowLine 47 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:10:29 nus_engin nusEngin00019 49 50 ::1  Road 48 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:10:54 nus_engin nusEngin00019 50 51 ::1  Road 49 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:11:20 nus_engin nusEngin00019 51 52 ::1  Road 50 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:11:54 nus_engin nusEngin00019 52 53 ::1  Road 51 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:13:06 nus_engin nusEngin00019 53 54 ::1  LowVeg 52 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:13:55 nus_engin nusEngin00019 54 55 ::1  Pavement 53 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:14:46 nus_engin nusEngin00019 55 56 ::1  Kerb 54 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:15:20 nus_engin nusEngin00019 56 57 ::1  TreeTrunk 55 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:16:08 nus_engin nusEngin00019 57 58 ::1  TreeTrunk 56 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:16:44 nus_engin nusEngin00019 58 59 ::1  TreeTrunk 57 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:17:18 nus_engin nusEngin00019 59 60 ::1  TreeTrunk 58 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:17:48 nus_engin nusEngin00019 60 61 ::1  Object 59 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:18:04 nus_engin nusEngin00019 61 62 ::1  Object 60 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:18:28 nus_engin nusEngin00019 62 63 ::1  Pole 61 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:18:45 nus_engin nusEngin00019 63 64 ::1  Object 62 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:19:10 nus_engin nusEngin00019 64 65 ::1  Pole 63 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:19:38 nus_engin nusEngin00019 65 66 ::1  Object 64 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:20:35 nus_engin nusEngin00019 66 67 ::1  Kerb 65 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:20:46 nus_engin nusEngin00019 67 68 ::1  Kerb 66 anonymous cpts_not_modified 0 0
+09-Apr-2016 06:21:16 nus_engin nusEngin00019 68 69 ::1  WhiteLine 67 anonymous cpts_not_modified 0 0
+10-Apr-2016 03:28:32 nus_engin nusEngin00019 69 70 ::1  Road 1 Evan cpts_not_modified 0 0
+10-Apr-2016 03:30:19 nus_engin nusEngin00019 70 69 ::1  Road 0 Evan cpts_not_modified 0 0

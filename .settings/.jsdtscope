@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="api/scripts/|api/scripts/prettify/" kind="src" path="annotationTools/js"/>
+	<classpathentry excluding="prettify/" kind="src" path="annotationTools/js/api/scripts"/>
+	<classpathentry kind="src" path="annotationTools/js/api/scripts/prettify"/>
+	<classpathentry kind="src" path="annotationTools/scribble/segmentCPP"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

@@ -1,0 +1,254 @@
+
+/********** HEADER *************/
+
+.header {
+	background: #000000;
+	width:100%;
+	min-width:640px;
+	height:50px;
+	padding-top:5px;
+}
+
+#logo{
+	position: absolute;
+	top:3px;
+	left:3px;
+	width:140px;
+	/*display:table-cell;*/
+	float:left;
+	margin-right:0px;
+	padding-left:10px;
+}
+
+#username_main_div{
+    position:absolute;
+	width:auto;
+    right:20px;
+    bottom:5px;
+    /*height:50px;*/
+    padding:0px;
+    vertical-align: middle;
+    
+    line-height:24px;
+	font-family:'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    line-height:1.4em;
+    font-weight:400;
+	color: #fff;
+    z-index:1;
+}
+
+.image_canvas {
+    position:absolute;
+    top:70px;
+    left:55px;
+    height: 550px;
+    width: 650px;
+   /* height:1em;*/
+	/*width:250px;*/
+    z-index:1;
+    float:left;
+}
+
+/********** NAVIGATION BUTTONS *************/
+
+#label_buttons_navigation{
+    position:absolute;
+    top:6px;
+	background-color:#fff;
+	border: 2px solid #000;
+	padding:2px;
+	padding-left:10px;
+	padding-right:10px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border-radius:20px;
+	/*height:52px;*/
+    left:350px;
+	margin-bottom:0px;
+	display:block;
+}
+
+.labelBtn, img.labelBtn {
+	background-color:#fff;
+	border:none;
+	margin-right:0px;
+	margin-top:0px;
+	cursor:pointer;
+	/*-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-webkit-box-shadow: 2px 2px 4px #888;
+	-moz-box-shadow: 2px 2px 4px #888;
+	box-shadow: 2px 2px 4px #888;
+	text-decoration:none;*/
+}
+
+.labelBtn:hover, img.labelBtn:hover {
+	background-color:#faa;
+	/*-moz-box-shadow:    2px 2px 2px 0px #222;
+    -webkit-box-shadow:  2px 2px 2px 0px #222;
+    box-shadow:          2px 2px 2px 0px #222;*/
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.labelBtn[disabled], .labelBtn[disabled]:hover{
+	background-color:#666666;
+	cursor:default;
+	/*-moz-box-shadow:    2px 2px 3px 0px #111;
+    -webkit-box-shadow: 2px 2px 3px 0px #111;
+    box-shadow:         2px 2px 3px 0px #111;*/
+	text-decoration:none;
+}
+
+
+#prevBtn.labelBtn{
+	margin-left:25px;
+}
+
+/********** NAVIGATION BUTTONS *************/
+
+#buttons_processing{
+    position:absolute;
+    top:3px;
+	background-color:#fff;
+	padding:1px;
+	padding-left:5px;
+	padding-right:5px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+    left:650px;
+	margin-bottom:0px;
+	display:block;
+}
+
+.processing_buttons, img.processing_buttons {
+	background-color:#fff;
+	border:none;
+	margin-right:0px;
+	margin-top:0px;
+	cursor:pointer;
+}
+
+.processing_buttons:hover, img.processing_buttons:hover {
+	background-color:#faa;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.processing_buttons[disabled], .processing_buttons[disabled]:hover{
+	background-color:#666666;
+	cursor:default;
+	text-decoration:none;
+}
+
+/********** VIEW BUTTONS *************/
+
+#label_buttons_view{
+    position: absolute;
+    top:70px;
+    width:50px;
+	height:100%;
+    left:2px;
+	margin-bottom:5px;
+	/*display:block;*/
+}
+
+.labelBtnView, img.labelBtnView {
+	background-color:#fff;
+	border:none;
+	margin-right:0px;
+	margin-left:0px;
+	margin-top:3px;
+	cursor:pointer;
+	/*-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-webkit-box-shadow: 2px 2px 4px #888;
+	-moz-box-shadow: 2px 2px 4px #888;
+	box-shadow: 2px 2px 4px #888;
+	text-decoration:none;*/
+}
+
+.labelBtnView:hover, img.labelBtnView:hover {
+	background-color:#faa;
+	/*-moz-box-shadow:    2px 2px 2px 0px #222;
+    -webkit-box-shadow:  2px 2px 2px 0px #222;
+    box-shadow:          2px 2px 2px 0px #222;*/
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.labelBtnView[disabled], .labelBtnView[disabled]:hover{
+	background-color:#666666;
+	cursor:default;
+	/*-moz-box-shadow:    2px 2px 3px 0px #111;
+    -webkit-box-shadow: 2px 2px 3px 0px #111;
+    box-shadow:         2px 2px 3px 0px #111;*/
+	text-decoration:none;
+}
+
+
+#prevBtn.labelBtnView{
+	margin-top:10px;
+}
+
+/********** DRAWING BUTTONS *************/
+
+#label_buttons_drawing{
+    position: absolute;
+    top: 70px;
+    right: 250px;
+    width:50px;
+	height:55px;
+	margin-bottom:5px;
+	/*display:block;*/
+}
+
+.labelBtnDraw, img.labelBtnDraw {
+	background-color:#fff;
+	border:none;
+	margin-right:0px;
+	margin-left:0px;
+	margin-top:3px;
+	cursor:pointer;
+	/*-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-webkit-box-shadow: 2px 2px 4px #888;
+	-moz-box-shadow: 2px 2px 4px #888;
+	box-shadow: 2px 2px 4px #888;
+	text-decoration:none;*/
+}
+
+.labelBtnDraw:hover, img.labelBtnDraw:hover {
+	background-color:#faa;
+	/*-moz-box-shadow:    2px 2px 2px 0px #222;
+    -webkit-box-shadow:  2px 2px 2px 0px #222;
+    box-shadow:          2px 2px 2px 0px #222;*/
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.labelBtnDraw[disabled], .labelBtnDraw[disabled]:hover{
+	background-color:#666666;
+	cursor:default;
+	/*-moz-box-shadow:    2px 2px 3px 0px #111;
+    -webkit-box-shadow: 2px 2px 3px 0px #111;
+    box-shadow:         2px 2px 3px 0px #111;*/
+	text-decoration:none;
+}
+
+
+#prevBtn.labelBtnDraw{
+	margin-top:10px;
+}
+
+
+
+
