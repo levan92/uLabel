@@ -9,7 +9,9 @@ labelFN = fullfile (labelFolderDir, strcat(imgname,'.txt'));
 labelFile = fopen(labelFN,'w');
 % making header line
 [imgRow, imgCol] = size(seg);
-headingLabels = [num2str(imgRow),' ',num2str(imgCol),' ',strjoin(names),'\n'];
+namesTmp = sprintf('%s ' ,names{:});
+namesJoined = strtrim(namesTmp);
+headingLabels = [num2str(imgRow),' ',num2str(imgCol),' ',namesJoined,'\n'];
 fprintf (labelFile, headingLabels);
 fclose (labelFile);
 % appending seg matrix

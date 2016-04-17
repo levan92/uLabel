@@ -1,14 +1,15 @@
-cd '/Users/lingevan/Desktop/FYP/training annotation/matlab toolbox'
+cd 'C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\ulabel\matlab toolbox'
 %% For processing and outputing to text files for a group of XML labels in a folder
 %% collection name (folder)
 %change accordingly
-folder = 'training1';
+folder = 'nus_engin';
 %% root folders declarations
-HOMEANNOTATIONS = '/Library/WebServer/Documents/ulabel/Annotations';
-HOMEIMAGES = '/Library/WebServer/Documents/ulabel/Images';
-HOMEMASK = '/Library/WebServer/Documents/ulabel/Masks';
-HOMEULSEGMENTS = '/Library/WebServer/Documents/ulabel/Segments';
-HOMELABELS = '/Library/WebServer/Documents/ulabel/LabelsForTraining';
+HOME = 'C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\ulabel';
+HOMEANNOTATIONS = fullfile (HOME, 'Annotations');
+HOMEIMAGES = fullfile (HOME, 'Images');
+HOMEMASK = fullfile (HOME, 'Masks');
+HOMEULSEGMENTS = fullfile (HOME, 'Segments');
+HOMELABELS = fullfile (HOME, 'LabelsForTraining');
 %% loop through folder to process xmls
 xmlFNs = fullfile (HOMEANNOTATIONS, folder, '*.xml');
 xmlFiles = dir (xmlFNs);

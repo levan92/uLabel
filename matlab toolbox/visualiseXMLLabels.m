@@ -3,11 +3,13 @@
 imgname = 'biopolis1';
 folder = 'training1';
 %% root folders declarations
-HOMEANNOTATIONS = '/Library/WebServer/Documents/ulabel/Annotations';
-HOMEIMAGES = '/Library/WebServer/Documents/ulabel/Images';
-HOMEMASK = '/Library/WebServer/Documents/ulabel/Masks';
-HOMEULSEGMENTS = '/Library/WebServer/Documents/ulabel/Segments';
-HOMELABELS = '/Library/WebServer/Documents/ulabel/LabelsForTraining';
+%% root folders declarations
+HOME = 'C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\ulabel';
+HOMEANNOTATIONS = fullfile (HOME, 'Annotations');
+HOMEIMAGES = fullfile (HOME, 'Images');
+HOMEMASK = fullfile (HOME, 'Masks');
+HOMEULSEGMENTS = fullfile (HOME, 'Segments');
+HOMELABELS = fullfile (HOME, 'LabelsForTraining');
 %% running functions
 filename = fullfile (HOMEANNOTATIONS,folder, strcat(imgname,'.xml'));
 [imgstruct, img1xml] = loadXML(filename);
