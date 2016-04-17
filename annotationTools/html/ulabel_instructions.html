@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+   <head>
+      <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+      <title>uLabel Guide</title>
+      <link rel="shortcut icon" href="../../Icons/iconYouLabel.png" />
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+      <script language="JavaScript" type="text/JavaScript">
+         <!--
+            function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+                if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+                    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+                else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+            }
+            MM_reloadPage(true);
+            //-->
+      </script>
+      <style>
+         @import url("../css/headerForInstructions.css");      
+      </style>
+   </head>
+   <body bgcolor="#FFFFFF" style="font-family:Arial, Helvetica, Garamond, sans-serif; font-size:10px;">
+      <!-- HEADER AND LOGO -->  
+      <div class="header" id="header">
+         <!-- LOGO -->
+         <div id="logo">
+            <img src="../../Icons/uLabel_logo.png" width="140" height="50" alt="uLabel logo"></img>
+         </div>
+         <div id="label_buttons_navigation">
+            <!-- Go back BUTTON -->
+            <button id="img_url" class="backBtn" type="button" title="Go back to tool" onclick="window.history.back();">
+            <img src="../../Icons/for_guide/left_arrow.png"  height="30" />
+            </button>
+         </div>
+      </div>
+      <div id="Layer1" style="position:absolute; left:28px; top:75px; width:1000px; height:573px; z-index:113; font-size:10px;">
+         <table width="100%" border="0">
+            <tr>
+               <td width="100%">
+                  <!-- INTRO -->  
+                  <p>
+                     <font size="6">
+                  <center><i>The Guide to uLabel</i></center></font></p>
+                  <p > The process of annotation is an ardous process that is frustrating 
+                     if not done with the right tool. Hopefully, uLabel will ease your pain here.
+                     Get better and faster at it by learning and getting use to the various 
+                     shortcuts implemented. So, watch out for all the shortcuts as you learn in this guide.
+                  </p>
+                  <p> In this guide, you will learn: 
+                  <ol>
+                     <li>How to navigate</li>
+                     <li>How to label</li>
+                     <li>How to check progress</li>
+                     <li>How to edit</li>
+                     <li>Summary of shortucts</li>
+                  </ol>
+                  <p>
+               </td>
+            </tr>
+            <!-- HOW TO NAVIGATE -->  
+            <tr>
+               <td width="100%">
+                  <p><font size="5"><u>1. How to navigate</u></font></p>
+                  <p>Two ways: 1) Changing URL 2) By nagivational arrows  </p>
+                  <p>First, get the training set folder name and the first image name from the DSO team.
+                     Then, you will access the tool with the following URL with a query string at the end of it:
+                     http://website.com/ulabel/tool.html?folder=folder_name&image=image_name00001.jpg 
+                     change the parameters of the query string accordingly for the "folder" and "image". 
+                  </p>
+                  <p>To access the next training image you can explicitly redefine the next image name in the query string of the URL.</p>
+                  <p> Alternatively, (<b><i>recommended</b></i>) use the navigational arrows at the top bar to get to the next or previous training
+                     image. This will run through the images by alphabetical order. 
+                  </p>
+                  <center><img src="../../Icons/for_guide/nagivational_buttons.png" width="100" border="1"></center>
+				  <p>To zoom in on the image, simply press '1' for zoom in, '2' for zoom out, and '3' for completely zoom out.</p>
+               </td>
+            </tr>
+			<tr><td>&nbsp</td></tr>
+            
+			<!-- HOW TO LABEL-->
+            <tr>
+               <td width="100%">
+                  <p><font size="5"><u>2. How to label</u></font></p>
+                  <p>Two ways - 1) Polygon, 2) Scribble  </p>
+                  <p>For beginners, (<b><i>recommended</b></i>) just use polygon. Here, I will describe the polygon process. 
+                     Scribble function is as instinctive as it can get, just try it out and you 
+                     will get it. Whether or not you find it useful is up to one's preference.  
+                  </p>
+                  <p>Polygon plotting: 
+                  <ol>
+                     <li>Identify boundary/contour of the feature to be annotated.</li>
+                     <li>Dot vertices of the boundary using mouse left click.</li>
+                     <li>Make sure polygon plotted has a good fit to the actual contour of the feature.</li>
+                     <li>On the last point, you can either right click or press back on the first point to complete.</li>
+                     <li>Select appropriate class (here you can just type the first letter of the class to select it).</li>
+                     <li>Done! (alternatively press 'd')</li>
+                  </ol>
+                  <center><img src="../../Icons/for_guide/annotating polygon.png" width="700" border="0"></center>
+				  <p>Other features:</p>
+				  <ul>
+					  <li>Opps (or just press 'z') can be select when you accidentally end the polygon and want to go back to select it.</li>
+					  <li>Delete (or just press'`', this key is found just below 'esc') when you just want to delete the plotted polygon</li>
+					  <li>When plotting polygon, simply press 'z' if you make a mistake plotting the current dot it will undo the last move. (or, the undo button can be manually pressed too)</li>
+					  <li>You can release the held outlines  by selecting 'Hide all' from the side, if you find it obstructing your plotting</li>
+				  </ul>
+				  <p>What is an appropriate class:</p>
+				  <ol>
+					  <li>Sky: simply the sky</li>
+					  <li>Road: traffic roads</li>
+					  <li>White Road Marking: white arrows, lane markings, etc. found on the road</li>
+					  <li>Yellow Road Marking: yellow box, double yellow line, etc.</li>
+					  <li>Kerb: side of the road</li>
+					  <li>Pavement: areas where pedestrian belongs</li>
+					  <li>Low Vegetation: any grass and bushes.</li>
+					  <li>High Vegetation: all other plants that are not low vegetation.</li>
+					  <li>Tree trunk: big and obvious tree trunks.</li>
+					  <li>Building: man-made concrete structures, I would consider bridge buildings as well.</li>
+					  <li>Object: all other obstacles/signs/objects, like cars, humans, traffic lights, road signs, obstructions.</li>
+					  <li>Pole: poles holding up signs, traffic lights, street lamps, etc.</li>
+				  </ol>				  
+                  <p>       
+               </td>
+            </tr>
+			<tr><td>&nbsp</td></tr>
+			
+            <!-- HOW TO CHECK PROGRESS -->  
+            <tr>
+               <td width="100%">
+                  <p><font size="5"><u>3. How to check progress</u></font></p>
+                  <ol>
+					  <li>Only after you have annotated a few features</li>
+					  <li>Press 's' (show)</li>
+					  <li>Be amazed</li>
+					  <li>Press 'h' (hide)</li>				
+				  </ol>
+               </td>
+            </tr>
+			<tr><td>&nbsp</td></tr>
+			
+            <!-- HOW TO EDIT -->  
+            <tr>
+               <td width="100%">
+                  <p><font size="5"><u>4. How to edit</u></font></p>
+                  <p>Click on the polygon or select from object list.</p>
+				  <p>Useful feature: you can adjust the polygon vertices even after input!</p>     
+               </td>
+            </tr>
+			<tr><td>&nbsp</td></tr>
+			
+            <!--SUMMARY OF SHORTCUTS -->  
+            <tr>
+               <td width="100%">
+                  <p><font size="5"><u>5. Summary of Shortcuts</u></font></p>
+                  <p>Life hacks: Use shortcuts.  </p>
+                  <img src="../../Icons/for_guide/table shortcuts.png" width="500" border="0">
+               </td>
+            </tr>
+			<tr><td>&nbsp</td></tr>
+            
+         </table>
+      </div>
+   </body>
+</html>
