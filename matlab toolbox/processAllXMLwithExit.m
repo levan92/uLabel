@@ -1,8 +1,9 @@
+function processAllXMLwithExit(folder)
 cd 'C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\ulabel\matlab toolbox'
 %% For processing and outputing to text files for a group of XML labels in a folder
 %% collection name (folder)
 %change accordingly
-folder = 'nus_engin';
+%%folder = 'nus_engin';
 %% root folders declarations
 HOME = 'C:\Program Files (x86)\Apache Software Foundation\Apache2.2\htdocs\ulabel';
 HOMEANNOTATIONS = fullfile (HOME, 'Annotations');
@@ -24,4 +25,6 @@ for xmlFile = xmlFiles'
     % writing seg to pixel-indexed label text file
     labelFN = writeLabelTxt (HOMELABELS, imgname, folder, seg, names);
     display (['Processed and wrote label txt file for ', xmlFile.name]);
+end
+exit;
 end
