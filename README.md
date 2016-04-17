@@ -13,6 +13,7 @@
 * Icons - Icons used on web page.
 * matlab toolbox - MATLAB scripts for post-processing.
 * LabelsForTraining - Output folder for the MATLAB post-processing script on XML annotations
+* train.bat - batch file that runs on Windows system, to parse XML files to indexed label text files, which are then pass into the scene parsing training algorithm and saved to the model data folder of the scene parsing algorithm
 
 
 ===========
