@@ -9,6 +9,7 @@
 * Scribbles - This is where the scribbles are collected (scribble mode).
 * tool.html - Main web page for uLabel annotation tool.
 * annotationTools - Directory with source code.
+   * most functionalities codes under js folder (javascript)
 * annotationCache - Location of temporary files.
 * Icons - Icons used on web page.
 * matlab toolbox - MATLAB scripts for post-processing.
